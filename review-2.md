@@ -1,0 +1,2 @@
+Mi Producto
+Mi producto es una aplicación de gestión de tareas. Sirve para ayudar a las personas a organizar y dar seguimiento a sus tareas diarias, proyectos y compromisos. Sus funcionalidades más importantes incluyen la creación de listas de tareas, establecimiento de fechas límite, priorización de tareas, y notificaciones. Los usuarios lo usarían para aumentar su productividad, mantenerse organizados y cumplir con sus responsabilidades de manera eficiente.
